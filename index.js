@@ -1,3 +1,5 @@
+#! /usr/bin/env node
+
 var yauzl = require('yauzl');
 var path = require('path');
 var fs = require('fs');

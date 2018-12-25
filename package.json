@@ -12,8 +12,9 @@
     "type": "git",
     "url": "git+https://github.com/dolsup/cli-fireplace.git"
   },
+  "preferGlobal": true,
   "bin": {
-    "cli-fireplace": "./index.js"
+    "cli-fireplace": "index.js"
   },
   "bugs": {
     "url": "https://github.com/dolsup/cli-fireplace/issues"
