@@ -39,7 +39,7 @@ if (fs.existsSync(filepath)) {
 }
 
 function play() {
-    var fire = spawn(playCmd, ['play', filepath, '--frame_rate=' + frameRate], {
+    var fire = spawn('node', [playCmd, 'play', filepath, '--frame_rate=' + frameRate], {
         stdio: 'inherit',
     });
 
