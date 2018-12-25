@@ -23,5 +23,22 @@
   "dependencies": {
     "ascii-video-play-only": "^0.1.3",
     "yauzl": "^2.10.0"
-  }
+  },
+  "keywords": [
+    "funny",
+    "joke",
+    "just-for-fun",
+    "silly",
+    "crazy",
+    "christmas",
+    "xmas",
+    "art",
+    "cli",
+    "terminal",
+    "shell",
+    "ansi",
+    "color",
+    "command-line",
+		"text"
+  ]
 }
