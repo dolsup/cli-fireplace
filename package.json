@@ -1,6 +1,6 @@
 {
   "name": "cli-fireplace",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "🎉Enjoy your 🎁Christmas🎅 watching digital fireplace🔥 on your screen🖥",
   "main": "index.js",
   "scripts": {
@@ -39,6 +39,6 @@
     "ansi",
     "color",
     "command-line",
-		"text"
+    "text"
   ]
 }
