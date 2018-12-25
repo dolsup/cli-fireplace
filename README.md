@@ -1,10 +1,10 @@
 # cli-fireplace
-
 <img src="cli-fireplace-demo.gif?raw=true">
 
-*Television, our digital fireplace*<br>
-*Christmas, It's not a biggie*
+*Television, our bonfire[*](https://www.youtube.com/watch?v=FfUV8itOAsc&t=497s)*<br>
+*Christmas, It's not a biggie[*](https://www.youtube.com/watch?v=Quf0PkMXAZY)*
 
+[![NPM](https://nodei.co/npm/cli-fireplace.png?compact=true)](https://nodei.co/npm/cli-fireplace/)
 ## Let's get warm
 ```bash
 $ npm i -g cli-fireplace
