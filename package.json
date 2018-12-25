@@ -1,0 +1,22 @@
+{
+  "name": "cli-fireplace",
+  "version": "0.1.0",
+  "description": "🎉Enjoy your 🎁Christmas🎅 watching digital fireplace🔥 on your screen🖥",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dolsup",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dolsup/cli-fireplace.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dolsup/cli-fireplace/issues"
+  },
+  "homepage": "https://github.com/dolsup/cli-fireplace#readme",
+  "dependencies": {
+    "ascii-video-play-only": "^0.1.3"
+  }
+}
